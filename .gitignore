@@ -1,0 +1,15 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.log
+*.out
+
+go.work
+go.work.sum
+
+.env

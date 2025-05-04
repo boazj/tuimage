@@ -1,0 +1,4 @@
+github.com/tiendc/go-rflutil v0.0.0-20240919184150-3c910c4770e2 h1:rn+lV7zG16tc0GCw9hJkdvCOecbGe8Kj33lI8AaJ74g=
+github.com/tiendc/go-rflutil v0.0.0-20240919184150-3c910c4770e2/go.mod h1:2nPnVtlbM4w4GOWSmFjKFKl+mhDT7hWgwky4qpRFugo=
+github.com/tiendc/gofn v1.14.0 h1:2djOJ5TUKCBlINiF8Nnh85dDhDNfu5TTFar6jyI0/s0=
+github.com/tiendc/gofn v1.14.0/go.mod h1:SfEJjjn7b4WMW2PRoxKuBXGDCWuxnD8DfxJccBlx+4o=
